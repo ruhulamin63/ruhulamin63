@@ -1,4 +1,3 @@
-![Software Developer](https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/p720x720/104303933_2626990924287892_1871117386219474128_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFdl0rr8XKUV_bFSAKrOp_3IG3V5_4Pog0gbdXn_g-iDZ_nHXhV-4-SaiEbg2uZnYXt0P4T2oL3alQFgQxIfjTk&_nc_ohc=1bPMelPRXCEAX9bEnGd&_nc_ht=scontent.fdac8-1.fna&oh=6bb3ff4a312c42bb0756bd349c7586e3&oe=61694DF1)
 
 ### Hi there 👋, I'm Ruhul Amin
 #### Software Developer
