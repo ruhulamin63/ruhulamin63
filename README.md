@@ -1,6 +1,7 @@
 
 ### Hi there 👋, I'm Ruhul Amin
 #### Software Developer at PencilTach
+### Remote Web Developer at Seba Automation Ltd
 
 
 To put my experience and skills to good use, to take advantage of any opportunities for professional development, and to contribute in the most effective way to the betterment of the organization and myself.
