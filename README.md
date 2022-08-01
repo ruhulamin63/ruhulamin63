@@ -16,7 +16,7 @@
 
 #### To put my experience and skills to good use, to take advantage of any opportunities for professional development, and to contribute in the most effective way to the betterment of the organization and myself.
 
-#### I am PHP, Laravel, Rest API and C++ expert having experience building websites with laravel framework, MySQL MVC pattern. I have 2+ years of experience working as a web developer & C++ competitive programmer. I am very passionate about this field and enjoy dealing with all hurdles that arise on way to achieving my goals. So just hit a message to discuss your project. I will prove myself helpful for your needs. 
+#### I am Core Php, Laravel, Rest API and C++ expert having experience building web applications with laravel framework, MySQL MVC pattern. I have 2+ years of experience working as a software developer. I am very passionate about this field and enjoy dealing with all hurdles that arise on way to achieving my goals. So just hit a message to discuss your project. I will prove myself helpful for your needs. 
 
 #### Thanks! 
 #### Happy working always.
