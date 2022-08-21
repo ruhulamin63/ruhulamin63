@@ -4,7 +4,7 @@
 #### Software Developer at PencilTach
 
 #### https://rahridoy.com/ (Portfolio)
-#### https://ajcaremotors.com/  (Bike Service Ltd)
+#### https://ajcaremotors.rahridoy.com/  (Bike Service Ltd)
 #### https://fortify.rahridoy.com/login (Blog Site)
 
 #### https://www.facebook.com/insan.moon.7/   (Facebook)
