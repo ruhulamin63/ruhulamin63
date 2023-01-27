@@ -1,10 +1,3 @@
-
-### Hi there 👋, 
-   ### I'm Ruhul Amin
-#### Software Engineer at Dream71 Bangladesh Limited
-
-#### =======================================================================================================================================
-
 Skills: HTML / CSS / JAVA SCRIPT / PHP / Laravel / Node.js / ASP.Net / React.js / Oracle / SQL / MySQL / Microsoft Word / Excel / PowerPoint 
 
 
