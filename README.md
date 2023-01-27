@@ -3,15 +3,6 @@
    ### I'm Ruhul Amin
 #### Software Engineer at Dream71 Bangladesh Limited
 
-
-#### To put my experience and skills to good use, to take advantage of any opportunities for professional development, and to contribute in the most effective way to the betterment of the organization and myself.
-
-#### I am a php, laravel & vueJs framework, rest api and c++ expert having experience building web applications. I have 2+ years of experience working as a software developer. I am very passionate about this field and enjoy dealing with all hurdles that arise on the way to achieving my goals.
-
-
-#### Thanks! 
-#### Happy working always.
-
 #### =======================================================================================================================================
 
 Skills: HTML / CSS / JAVA SCRIPT / PHP / Laravel / Node.js / ASP.Net / React.js / Oracle / SQL / MySQL / Microsoft Word / Excel / PowerPoint 
