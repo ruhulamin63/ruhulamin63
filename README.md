@@ -11,12 +11,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ruhulamin63)  
 
-#### https://rahridoy.com/ (Portfolio)
-#### https://ajcaremotors.rahridoy.com/  (Bike Service Ltd)
-#### https://fortify.rahridoy.com/login (Blog Site)
-
 #### https://www.facebook.com/insan.moon.7/   (Facebook)
 #### https://www.linkedin.com/in/ruhul-amin-0a24aa156/  (LinkedIn)
-#### https://twitter.com/Ruhul79239426  (Twitter)
 
 #### +880 1743369163 (WhatsApp)
