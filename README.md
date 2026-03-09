@@ -1,15 +1,3 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruhul-amin-0a24aa156/)
-
-## Skills
-
-### Proficiency in PHP and Laravel
-- Strong knowledge and hands-on experience with PHP and Laravel Framework.
-- Experience building scalable and secure applications using Laravel.
-
-### Experience with Vue.js and Nuxt.js
-- Expertise in building modern, dynamic front-end applications using Vue.js.
-- Experience in server-side rendering and static site generation with Nuxt.js.
-
 ### Knowledge of RESTful API Development
 - In-depth understanding of REST architecture.
 - Experience building and consuming RESTful APIs.
@@ -17,10 +5,6 @@
 ### Understanding of Docker and Containerized Environments
 - Knowledge of containerization concepts and Docker.
 - Experience with setting up Docker containers for development, testing, and production environments.
-
-### Familiarity with Redis, Memcached, and Caching Mechanisms
-- Understanding caching strategies for optimizing application performance.
-- Experience with Redis and Memcached for data caching and queue management.
 
 ### Debugging and Troubleshooting Using Laravel Debugbar, Telescope
 - Proficient in debugging and troubleshooting Laravel applications using tools like Debugbar and Telescope.
