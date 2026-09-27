@@ -10,9 +10,7 @@
 
 ## About Me
 
-I am a software engineer focused on building practical, maintainable, and impactful software solutions. I enjoy working across the full stack, from backend logic and database design to clean user interfaces and smooth API integrations.
-
-My engineering journey is built around curiosity, consistency, and problem-solving. I like improving existing systems, learning better development practices, and turning real-world ideas into working products that people can actually use.
+Software Engineer with nearly 5 years of experience building backend-heavy ERP, SaaS, government, e-commerce and business applications. Experienced in API design, database modeling, performance optimization, caching, queues, authentication, RBAC, third-party integrations and full-stack delivery. Strong in translating complex business workflows into reliable, scalable software systems.
 
 ## What I Do
 
