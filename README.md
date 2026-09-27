@@ -20,23 +20,6 @@ Software Engineer with nearly 5 years of experience building backend-heavy ERP, 
 - Learn modern tools, frameworks, and best practices continuously
 - Solve real problems through practical software engineering
 
-## Tech Stack
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,mysql,git,github,vscode" alt="Tech stack icons" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-4D96FF?style=for-the-badge" alt="Backend badge" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-00C9A7?style=for-the-badge" alt="Frontend badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-FFB703?style=for-the-badge" alt="Database badge" />
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub-24292F?style=for-the-badge" alt="Tools badge" />
-
-</div>
-
 ## Current Focus
 
 - Building stronger real-world projects for my developer portfolio
